@@ -3,7 +3,7 @@ appdirs==1.4.3
 asgiref==3.2.3
 attrs==19.3.0
 Automat==20.2.0
-Babel==2.8.0
+Babel==2.9.1
 backcall==0.1.0
 baidu-aip==2.2.18.0
 beautifulsoup4==4.8.2
