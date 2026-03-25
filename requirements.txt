@@ -90,7 +90,7 @@ pyzmq==19.0.0
 qtconsole==4.7.1
 QtPy==1.9.0
 queuelib==1.5.0
-requests==2.22.0
+requests==2.33.0
 scrapely==0.14.1
 Scrapy==1.8.0
 selenium==3.141.0
